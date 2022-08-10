@@ -1,0 +1,26 @@
+js1:
+•variables: Las variables son como una etiqueta en donde almacenan
+ informacion en la cual señalaremos mas adelante una tarea o algun
+ proceso. Es para no poner siempre lo mismo a para referirnos a algo
+ de una manera mas facil.
+ •strins: Las strings son unos bloques que contienen texto los cuales 
+ siempres estan entre comillas
+ •funciones: cuando a una funcion le ponemos un argumento estamos como
+ imprimiendola para despues poder usarla aplicando una variable, lo cual
+ nos permite poder señalarla y que cumpla su funcion sin escribir toda
+ la funcion, solo señalandola y el return es la terminacion del proceso
+ de una funcion o un proceso para que retome su princio pero que nos 
+ pueda aportar el resultado de este proceso
+ •declaraciones if: if se utiliza para una comparacion entre 2 resultados
+ o mas para poder señalar el resultado que da dichas comparacion
+ •valores boleanos: los valores booleanos son la distincion entre true
+ y false
+ js2:
+ •for: 
+ •&&: esto es como y en español, lo que se utiliza como para incluir a 
+ algo mas.
+ •||: en español seria o lo cual es para señalar que una cosa o otra 
+ cumple cierta propiedad.
+ !: este signo se refierte a el no en español lo que en js cambia la 
+ propiedad del producto. por ejemplo el !1 que de true por se 1 pasa a
+ false por ser !1
